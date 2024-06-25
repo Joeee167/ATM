@@ -12,3 +12,8 @@ This project was built to practice using files as a tool to save clients' info t
 * The client is firstly prompted to enter his account number and pin code which are used to search if this client already exists in the file which includes clients data.
 * If the account number or pin code is not correct , the client is asked to re-enter them.
 * If the client enters his account number and pin correctly , he is transfered to main menu screen to perform the available ATM operations.
+
+![Quick Withdraw](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-06-25%20134424.png)
+* The client can choose to withdraw one of the following amounts.
+* If the amount dos not exceed the client's balance , the withdraw is performed and his balance is updated in the file.
+* If the amount is more than the client's balance , the client is asked to enter another amount
