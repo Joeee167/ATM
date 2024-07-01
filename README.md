@@ -20,3 +20,7 @@ This project was built to practice using files as a tool to save clients' info t
 
 
 ![Normal withdraw](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124007.png)
+![Normal withdraw](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124037.png)
+* The client can enter any amount that is multiple of 5 only.
+* If the entered amount is multiple of 5 and less than his current balance , the amount is withdrawn.
+* If the amount is not multiple of 5 , the client is asked to enter another amount.
