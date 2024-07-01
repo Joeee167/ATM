@@ -26,3 +26,6 @@ This project was built to practice using files as a tool to save clients' info t
 * If the amount is not multiple of 5 , the client is asked to enter another amount.
 
 ![Deposit](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124831.png)
+![Deposit](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124937.png)
+* The client is asked to enter a positive amount to deposit.
+* After that , the client should confirm this transaction . Then , the client's balance is updated
