@@ -28,4 +28,7 @@ This project was built to practice using files as a tool to save clients' info t
 ![Deposit](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124831.png)
 ![Deposit](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124937.png)
 * The client is asked to enter a positive amount to deposit.
-* After that , the client should confirm this transaction . Then , the client's balance is updated
+* After that , the client should confirm this transaction . Then , the client's balance is updated.
+
+![Balance](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20133816.png)
+* A screen to show the client's current balance.
