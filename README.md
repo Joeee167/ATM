@@ -17,3 +17,6 @@ This project was built to practice using files as a tool to save clients' info t
 * The client can choose to withdraw one of the following amounts.
 * If the amount dos not exceed the client's balance , the withdraw is performed and his balance is updated in the file.
 * If the amount is more than the client's balance , the client is asked to enter another amount
+
+
+![Normal withdraw](https://github.com/Joeee167/ATM/blob/master/Screenshot%202024-07-01%20124007.png)
